@@ -34,5 +34,5 @@ The project is structured around several key classes that interact to simulate a
 # Contributors
 This project was developed as a collaborative effort by:
 * Feyza Özdemir - [GitHub](https://github.com/feyza-ozdemir)
-* Melda Güngör - [GitHub](github.com/meldag006)
-* Kübra Temur - [GitHub](github.com/kubratmr)
+* Melda Güngör - [GitHub](https://github.com/meldag006)
+* Kübra Temur - [GitHub](https://github.com/kubratmr)
